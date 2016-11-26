@@ -2,6 +2,8 @@
 
 
 # Beginer's guide
+
+[![Join the chat at https://gitter.im/learn-coding/Lobby](https://badges.gitter.im/learn-coding/Lobby.svg)](https://gitter.im/learn-coding/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is what seems to be a good path to start and have all the base to suceed on
 the long run. Read [this](http://www.paulgraham.com/knuth.html) article.
 
