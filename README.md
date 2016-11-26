@@ -1,19 +1,43 @@
-
-
-
 # Beginer's guide
+
 This is what seems to be a good path to start and have all the base to suceed on
 the long run. Read [this](http://www.paulgraham.com/knuth.html) article.
 
 1. Learn Javascript and it's derivatives (Nodejs, Angularjs), why, because is
    the language of the web
-2. Learn Haskell, so languages as Javascript, Scala, Erlang/Elixir, and much
    more will be easy to learn.
-3. Solve Hackerrank and project Euler problems (after phase 2)
-4. Install ubuntu and know how to use Linux
-5. Train keyboar typing
-6. Know how to extract knowledge from google (use good search keywords)
-7. Learn linux (optional), but very very important
+2. Solve Hackerrank and project Euler problems (after phase 2)
+3. Train keyboar typing
+4. Know how to extract knowledge from google (use good search keywords), use
+   stack overflow, forums, etc... write and chat with people out there
+5. Learn linux (optional), but very very important
+
+After you got some experience with Javascript, consider learning Haskell, to it
+will be easy to learn every other language.
+
+
+## abstractions
+Programming languages can abstract nouns and verbs, or both. 
+
+### noun abstraction (object oriented programming)
+Imagine you would like to open a washing machine company. And you go to buy the equipment, 
+and find that for every kind of vehicle, you have to buy and maintain a machine. One machine 
+to wash Fiat, one for Audi, one for Toyota, etc... It's so expensive that you decide to keep only 
+the most famous models. Finally you find a machine that can clean "CARS" ! Oho, that's a good 
+business, one machine, one space to rent, one worker to pay! that's amazing, you can have a wash 
+machine that can wash the abstract concept of "cars", and all models can be washed there, for a low 
+cost. 
+
+This is how we should write our code, some lines of code that are able to do a lot of stuff, this is, 
+code abstraction, code that can deal with wider concepts instead of specific ones. 
+
+
+
+
+### verb abstraction 
+
+Functional programming like Scala, Erlang, R, Elixir, Closure and others are becoming incresely important, specially in this big data era. If you already know the Object Oriented paradigm and discover the Functional paradigm, you will understand why the word "fun" is fun and also a function: because programming in functional languages is pure fun :) . It means, that you should write pure functions, i.e. a function where the return value is only determined by its input values, without observable side effects. This is how functions in math work: Math.cos(x) will, for the same value of x , always return the same result. And this will be really fun, because you get back control of your software behaviour, so you discover that predictability and happiness come together :). After you have some good dose of pure functions, you start composing the main architecture with your side effects functions. Clean, well written software means good money for the company you work, and also for your pocket ;) 
+
 
 
 
@@ -75,10 +99,22 @@ the long run. Read [this](http://www.paulgraham.com/knuth.html) article.
   - learn the last javascript version
 
 
-## phase 4
+## functional programming
 * [basic-haskell](http://haskellbook.com/) - Beginers book
 * [learn-you-a-haskell](http://learnyouahaskell.com/) - Amazing book
 * [haskell-web-site](https://wiki.haskell.org/Haskell) - Resources
+
+
+## object oriented programmng
+* [C# design-patterns](http://www.dofactory.com/net/design-patterns) - C# super clear examples on design patterns.
+
+
+## artificial intelligence
+
+* [neural-net-playground](http://playground.tensorflow.org/) - Pure fun for you and your family :) 
+* [nn-lib](https://github.com/tensorflow/playground/blob/master/nn.ts) - Tiny Javascript Neural Net lib
+* [tensor-flow](http://www.tensorflow.org) - Yeah, google opened source of their super machine learning library !!! 
+
 
 
 ## look for an online job
