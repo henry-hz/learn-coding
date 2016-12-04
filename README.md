@@ -56,7 +56,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
   - video
 
 
-## phase 1
+## basics
 * [code-monkey](http://www.playcodemonkey.com) - start here and succeed, and
   finish until the last challenge
 * [coffescript](https://www.codeschool.com/courses/coffeescript) - coffescript
@@ -76,7 +76,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
   problems
 
 
-## phase 2
+## tools
 * [learn-how-to-learn](https://www.coursera.org/learn/learning-how-to-learn) -
   learn how to learn
 * [front-end](https://www.codeschool.com/courses/front-end-foundations) - base
@@ -91,7 +91,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 
 
 
-## phase 3
+## tutorials & books
 * [eloquent-javascript](https://www.codeschool.com/courses/coffeescript) -
   incredible book
 * [angular](https://www.codeschool.com/courses/shaping-up-with-angular-js) -
@@ -99,6 +99,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 * [advanced-git](https://www.codeschool.com/courses/git-real-2) - Advanced GIT
 * [the-new-javascript](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come)
   - learn the last javascript version
+* [impostor-handbook](https://bigmachine.io/) - Amazing book
 
 
 ## functional programming
