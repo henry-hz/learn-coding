@@ -18,10 +18,10 @@ After you got some experience with Javascript, consider learning Haskell, to it
 will be easy to learn every other language.
 
 
-## abstractions
+## Abstractions
 Programming languages can abstract nouns and verbs, or both. 
 
-### noun abstraction (object oriented programming)
+### Noun abstraction (object oriented programming)
 Imagine you would like to open a washing machine company. And you go to buy the equipment, 
 and find that for every kind of vehicle, you have to buy and maintain a machine. One machine 
 to wash Fiat, one for Audi, one for Toyota, etc... It's so expensive that you decide to keep only 
@@ -36,7 +36,7 @@ code abstraction, code that can deal with wider concepts instead of specific one
 
 
 
-### verb abstraction 
+### Verb abstraction 
 
 Functional programming like Scala, Erlang, R, Elixir, Closure and others are becoming incresely important, specially in this big data era. If you already know the Object Oriented paradigm and discover the Functional paradigm, you will understand why the word "fun" is fun and also a function: because programming in functional languages is pure fun :) . It means, that you should write pure functions, i.e. a function where the return value is only determined by its input values, without observable side effects. This is how functions in math work: Math.cos(x) will, for the same value of x , always return the same result. And this will be really fun, because you get back control of your software behaviour, so you discover that predictability and happiness come together :). After you have some good dose of pure functions, you start composing the main architecture with your side effects functions. Clean, well written software means good money for the company you work, and also for your pocket ;) 
 
@@ -44,7 +44,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 
 
 
-## linux (optional)
+## Linux (optional)
 * [linux-survival](http://linuxsurvival.com) -
 * [learn-the-hard-way](http://cli.learncodethehardway.org/book/introduction.html)
   -
@@ -56,7 +56,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
   - video
 
 
-## basics
+## Basics
 * [code-monkey](http://www.playcodemonkey.com) - start here and succeed, and
   finish until the last challenge
 * [coffescript](https://www.codeschool.com/courses/coffeescript) - coffescript
@@ -69,14 +69,14 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 * [javascript](http://superherojs.com/) - All you need for Javascript coding, click it :)
 
 
-## solving problems
+## Solving Problems
 * [project-euler](https://projecteuler.net/) - world selection of interesting problems
   to solve
 * [hacker-rank](https://www.hackerrank.com) - world competition of solving
   problems
 
 
-## tools
+## Tools
 * [learn-how-to-learn](https://www.coursera.org/learn/learning-how-to-learn) -
   learn how to learn
 * [front-end](https://www.codeschool.com/courses/front-end-foundations) - base
@@ -91,7 +91,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 
 
 
-## tutorials & books
+## Tutorials & Books
 * [eloquent-javascript](https://www.codeschool.com/courses/coffeescript) -
   incredible book
 * [angular](https://www.codeschool.com/courses/shaping-up-with-angular-js) -
@@ -102,28 +102,28 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 * [impostor-handbook](https://bigmachine.io/) - Amazing book
 
 
-## functional programming
+## Functional Programming
 * [basic-haskell](http://haskellbook.com/) - Beginers book
 * [learn-you-a-haskell](http://learnyouahaskell.com/) - Amazing book
 * [haskell-web-site](https://wiki.haskell.org/Haskell) - Resources
+* [lambda-calculus](http://worrydream.com/AlligatorEggs/) - If you want and like theory, what is behind functional programming
 
 
-## object oriented programmng
+## Object Oriented Programmng
 * [C# design-patterns](http://www.dofactory.com/net/design-patterns) - C# super clear examples on design patterns.
 
 
-## artificial intelligence
+## Artificial Intelligence
 
 * [neural-net-playground](http://playground.tensorflow.org/) - Pure fun for you and your family :) 
 * [nn-lib](https://github.com/tensorflow/playground/blob/master/nn.ts) - Tiny Javascript Neural Net lib
 * [tensor-flow](http://www.tensorflow.org) - Yeah, google opened source of their super machine learning library !!! 
 
 
-
-## look for an online job
+## Online Jobs
 * [upwork](http://www.upwork.com) - Start here, build a five stars feedback track, and learn how to work remote with the incredible tool. You can meet there more than 10.000.000 people working on-line.
 * [remote-job-list](https://github.com/lukasz-madon/awesome-remote-job) - Fantastic full featured list of many kinds of links !!!!
-* [toptal](http://www.toptal.com) - The best companies are outsourcing there, and for good slaries !
+* [toptal](http://www.toptal.com) - The best companies are outsourcing there, and for good slaries.
 * [25 places to work](http://blog.creativelive.com/best-sites-finding-remote-jobs/) - Market place list.
 
 
