@@ -15,7 +15,8 @@ the long run. Read [this](http://www.paulgraham.com/knuth.html) article.
 5. Learn linux (optional), but very very important
 
 After you got some experience with Javascript, consider learning Haskell, to it
-will be easy to learn every other language.
+will be easy to learn every other language. But programming, is more than art and science, see [this](http://www.techrepublic.com/blog/10-things/10-traits-to-look-for-when-youre-hiring-a-programmer/) link 10 traits
+that you should develop also, and will for sure determine your relationship with the market.
 
 
 ## Abstractions
