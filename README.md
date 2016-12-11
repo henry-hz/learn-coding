@@ -13,6 +13,7 @@ the long run. Read [this](http://www.paulgraham.com/knuth.html) article.
 4. Know how to extract knowledge from google (use good search keywords), use
    stack overflow, forums, etc... write and chat with people out there
 5. Learn linux (optional), but very very important
+6. Learn how you learn, so you boost your learning. Use [concept maps](http://www.conceptmaps.io/guide/lessons/Frequently_Asked_Questions) 
 
 After you got some experience with Javascript, consider learning Haskell, to it
 will be easy to learn every other language. But programming, is more than art and science, see [this](http://www.techrepublic.com/blog/10-things/10-traits-to-look-for-when-youre-hiring-a-programmer/) link 10 traits
