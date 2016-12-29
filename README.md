@@ -42,7 +42,8 @@ code abstraction, code that can deal with wider concepts instead of specific one
 
 Functional programming like Scala, Erlang, R, Elixir, Closure and others are becoming incresely important, specially in this big data era. If you already know the Object Oriented paradigm and discover the Functional paradigm, you will understand why the word "fun" is fun and also a function: because programming in functional languages is pure fun :) . It means, that you should write pure functions, i.e. a function where the return value is only determined by its input values, without observable side effects. This is how functions in math work: Math.cos(x) will, for the same value of x , always return the same result. And this will be really fun, because you get back control of your software behaviour, so you discover that predictability and happiness come together :). After you have some good dose of pure functions, you start composing the main architecture with your side effects functions. Clean, well written software means good money for the company you work, and also for your pocket ;) 
 
-
+## English
+* [duolingo](https://www.duolingo.com/) - Learn english with games
 
 
 
