@@ -45,7 +45,8 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 ## English
 * [duolingo](https://www.duolingo.com/) - Learn english with games
 
-
+## Open mind
+* [problem-solving-approach](http://blog.iqmatrix.com/better-problem-solver) - How you should approach problems
 
 ## Linux (optional)
 * [linux-survival](http://linuxsurvival.com) -
