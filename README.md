@@ -109,6 +109,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 ## Functional Programming
 * [basic-haskell](http://haskellbook.com/) - Beginers book
 * [learn-you-a-haskell](http://learnyouahaskell.com/) - Amazing book
+* [learn-haskell-the-hard-way](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/) - Oho...
 * [haskell-web-site](https://wiki.haskell.org/Haskell) - Resources
 * [lambda-calculus](http://worrydream.com/AlligatorEggs/) - If you want and like theory, what is behind functional programming
 
