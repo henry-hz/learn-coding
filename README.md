@@ -78,6 +78,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
   to solve
 * [hacker-rank](https://www.hackerrank.com) - world competition of solving
   problems
+* [hacker-earth](http://www.hackereartch.com) - competition, traning and very good tutorials!
 
 
 ## Tools
@@ -92,6 +93,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 * [git-basics](https://www.codeschool.com/courses/try-git) - Basics of GIT
 * [github](https://www.codeschool.com/courses/mastering-github) - this is where
   you share code, participate on commercial or open-source projects teams
+* [github-flow](https://guides.github.com/introduction/flow/) - basic flow to start your project
 
 
 
