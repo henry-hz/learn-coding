@@ -79,6 +79,8 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 * [hacker-rank](https://www.hackerrank.com) - world competition of solving
   problems
 * [hacker-earth](http://www.hackereartch.com) - competition, traning and very good tutorials!
+* [99-functional-problems](https://github.com/pavelfatin/ninety-nine) - very elegant haskell solutions, and also in java, closure.
+
 
 
 ## Tools
