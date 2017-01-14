@@ -96,7 +96,10 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 * [github-flow](https://guides.github.com/introduction/flow/) - basic flow to start your project
 * [vim-interactive](http://www.openvim.com/) - learn vim online interactively
 * [vim-shortcuts](https://i.stack.imgur.com/i3iyY.gif) - cheat sheet vim shortcuts
+* [typing-tutorial](http://thetypingcat.com/) - typing tutorial (15 minutes/day, pls...)
 
+## Frameworks
+* [javascript](https://github.com/sorrycc/awesome-javascript) - list of best javascript libs
 
 
 ## Tutorials & Books
