@@ -94,6 +94,8 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 * [github](https://www.codeschool.com/courses/mastering-github) - this is where
   you share code, participate on commercial or open-source projects teams
 * [github-flow](https://guides.github.com/introduction/flow/) - basic flow to start your project
+* [vim-interactive](http://www.openvim.com/) - learn vim online interactively
+* [vim-shortcuts](https://i.stack.imgur.com/i3iyY.gif) - cheat sheet vim shortcuts
 
 
 
