@@ -8,8 +8,8 @@ the long run. Read [this](http://www.paulgraham.com/knuth.html) article.
 1. Learn Javascript and it's derivatives (Nodejs, Angularjs), why, because is
    the language of the web
    more will be easy to learn.
-2. Solve Hackerrank and project Euler problems (after phase 2)
-3. Train keyboar typing
+2. Solve Hackerrank and project Euler problems (after phase 2), or even better, solve problems for non-profit institutions on [freecodecamp](https://www.freecodecamp.com) and get a job proposoal directly from them.
+3. Train keyboard typing
 4. Know how to extract knowledge from google (use good search keywords), use
    stack overflow, forums, etc... write and chat with people out there
 5. Learn linux (optional), but very very important
@@ -80,6 +80,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
   problems
 * [hacker-earth](http://www.hackereartch.com) - competition, traning and very good tutorials!
 * [99-functional-problems](https://github.com/pavelfatin/ninety-nine) - very elegant haskell solutions, and also in java, closure.
+* [free-code-camp](https://www.freecodecamp.com) - solve problems and help others at the same time
 
 
 
