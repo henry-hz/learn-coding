@@ -4,6 +4,8 @@
 
 This is what seems to be a good path to start and have all the base to suceed on
 the long run. Read [this](http://www.paulgraham.com/knuth.html) article.
+You should konw that if you understand the root of the computer science, you will be able to learn several languages much much more faster that the ones that can't understand it. Finally I found a course that teach the principals: 
+**[From Nan to Tetris](https://www.coursera.org/learn/build-a-computer)**
 
 1. Learn Javascript and it's derivatives (Nodejs, Angularjs), why, because is
    the language of the web
