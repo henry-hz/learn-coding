@@ -106,6 +106,9 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 ## Frameworks
 * [javascript](https://github.com/sorrycc/awesome-javascript) - list of best javascript libs
 
+## Front-end
+* [front-end-begginers-list](https://github.com/thedaviddias/Resources-Front-End-Beginner) - complete and detailed list of resources
+
 
 ## Tutorials & Books
 * [eloquent-javascript](https://www.codeschool.com/courses/coffeescript) -
