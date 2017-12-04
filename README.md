@@ -16,6 +16,7 @@ You should konw that if you understand the root of the computer science, you wil
    stack overflow, forums, etc... write and chat with people out there
 5. Learn linux (optional), but very very important
 6. Learn how you learn, so you boost your learning. Use [concept maps](http://www.conceptmaps.io/guide/lessons/Frequently_Asked_Questions) 
+7. See [this](https://medium.freecodecamp.org/https-medium-com-samwcoding-how-to-get-your-first-developer-job-in-4-months-ec86da6e5d9a) article, on how someone got a Developer job in 4 months.
 
 After you got some experience with Javascript, consider learning Haskell, to it
 will be easy to learn every other language. But programming, is more than art and science, see [this](http://www.techrepublic.com/blog/10-things/10-traits-to-look-for-when-youre-hiring-a-programmer/) link 10 traits
