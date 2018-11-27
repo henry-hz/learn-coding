@@ -146,6 +146,7 @@ Functional programming like Scala, Erlang, R, Elixir, Closure and others are bec
 * [remote-job-list](https://github.com/lukasz-madon/awesome-remote-job) - Fantastic full featured list of many kinds of links !!!!
 * [toptal](http://www.toptal.com) - The best companies are outsourcing there, and for good slaries.
 * [25 places to work](http://blog.creativelive.com/best-sites-finding-remote-jobs/) - Market place list.
+* [awesome-list](https://github.com/lukasz-madon/awesome-remote-job) - Best reference ever possible
 
 
 
