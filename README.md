@@ -2,6 +2,10 @@
 
 [![Join the chat at https://gitter.im/learn-coding/Lobby](https://badges.gitter.im/learn-coding/Lobby.svg)](https://gitter.im/learn-coding/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+-> important update: everyone can subscribe to https://www.datacamp.com and
+become a python programmer or data scientist in a easy and amazing interactive
+learning.
+
 This is what seems to be a good path to start and have all the base to suceed on
 the long run. Read [this](http://www.paulgraham.com/knuth.html) article.
 You should konw that if you understand the root of the computer science, you will be able to learn several languages much much more faster that the ones that can't understand it. Finally I found a course that teach the principals: 
