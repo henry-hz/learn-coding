@@ -1,3 +1,27 @@
+# Workshop Syllabous
+
+1. Just some games
+2. Emotional approach when learning (easy/hard exercises)
+3. Self training (music [improvise vs reading])
+4. Understanding the computer machine
+5. Career
+   - Development
+   - Data Science
+   - Architecture
+5. Programming paradigms [how to think about problems]
+   - Functional
+   - Object Oriented
+   - Actor Based
+6. Resources (tutorials, blogs, videos, courses, books, communities, chat)
+7. Tools
+   - Git
+   - SQL
+   - Messaging
+
+
+
+
+
 # Beginer's guide
 
 [![Join the chat at https://gitter.im/learn-coding/Lobby](https://badges.gitter.im/learn-coding/Lobby.svg)](https://gitter.im/learn-coding/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
